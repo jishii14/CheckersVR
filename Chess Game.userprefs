@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Chess Game.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Behavior.cs">
+    <Files>
+      <File FileName="Assets\Main.cs" Line="10" Column="1" />
+      <File FileName="Assets\Behavior.cs" Line="93" Column="3" />
+      <File FileName="Assets\MoveClass.cs" Line="31" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

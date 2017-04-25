@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersVR.Plugins", "CheckersVR.Plugins.csproj", "{1E298EE1-2D2F-8EB6-1BF1-4A57775379EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersVR", "CheckersVR.csproj", "{FBA9EBB5-5440-75C3-DD0E-4B53B72C916D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersVR.Editor.Plugins", "CheckersVR.Editor.Plugins.csproj", "{96006AE8-CE60-BCC8-9346-BA339658E8FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E298EE1-2D2F-8EB6-1BF1-4A57775379EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E298EE1-2D2F-8EB6-1BF1-4A57775379EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E298EE1-2D2F-8EB6-1BF1-4A57775379EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E298EE1-2D2F-8EB6-1BF1-4A57775379EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA9EBB5-5440-75C3-DD0E-4B53B72C916D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA9EBB5-5440-75C3-DD0E-4B53B72C916D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA9EBB5-5440-75C3-DD0E-4B53B72C916D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA9EBB5-5440-75C3-DD0E-4B53B72C916D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96006AE8-CE60-BCC8-9346-BA339658E8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96006AE8-CE60-BCC8-9346-BA339658E8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96006AE8-CE60-BCC8-9346-BA339658E8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96006AE8-CE60-BCC8-9346-BA339658E8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
